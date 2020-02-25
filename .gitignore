@@ -1,3 +1,5 @@
 Modules
-Scripts
 config.ps1
+cmd-colors-solarized-master
+set-solarizeddarkcolordefaults.ps1
+set-solarizedlightcolordefaults.ps1
